@@ -1,5 +1,7 @@
 # cheerio
 
+This is a version of [cheerio](https://github.com/cheeriojs/cheerio) for Parse.com
+
 ## Usage
 
 1. Put 'cheerio.bundle.js' file in your cloud/ folder.
