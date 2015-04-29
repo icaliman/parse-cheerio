@@ -1,6 +1,6 @@
 # cheerio
 
-This is a version of [cheerio](https://github.com/cheeriojs/cheerio) for Parse.com
+This is a version of [cheerio](https://github.com/cheeriojs/cheerio) for [parse.com](https://parse.com/)
 
 ## Usage
 
